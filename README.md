@@ -2,6 +2,7 @@
 
 
 ![enter image description here](https://github.com/Parth-Kacheria/Halloween-Candy-Sales-Predictions/blob/main/Candy.jpg?raw=true)
+
 This project was created for an INSAID (International School of AI and Data Science) term project (Term 3 - Machine Learning Foundation) to predict sales of halloween candies for a company based on historical data.
 
 A brief overview of the project:
